@@ -1,1 +1,1 @@
-# CSEdge_VIKAS_DHAKANE_Python_Internships_Tasks
+# CSEdge_VIKAS_DHAKANE_Python_Internship_Tasks
